@@ -4,7 +4,7 @@
 내용 : 파이썬 Hello World  실습하기
 """
 
-print("Hello Pythod!")
+print("Hello Python!")
 
 #한줄에 결과값 이어서 출력
 print('Hello ', end=',')
